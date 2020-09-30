@@ -50,13 +50,13 @@
 
 24 operators.cpp  //operators program
 
-25 pattern1.cpp  //Pattern generation
+25 pattern1.cpp  //Pattern generation sample 1
 
-26 pattern2.cpp  //Program to print pattern
+26 pattern2.cpp  //Program to print pattern sample 2
 
-27 pattern3.cpp //Program to print pattern
+27 pattern3.cpp //Program to print pattern sample 3
 
-28 pattern4.cpp //Program to print pattern
+28 pattern4.cpp //Program to print pattern sample 4
 
 29 randNumbers.cpp  //Generating random numbers.
 
